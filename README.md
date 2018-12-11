@@ -1,5 +1,5 @@
 # Attiny85 Melody and LEDs
-<img src="https://github.com/ltvanderkrogt/Attiny85/blob/master/ATTiny85-melody-and-LED.png" alt="circuit"><BR>
+<img src="https://github.com/ltvanderkrogt/Attiny85/blob/master/Attiny85/ATTiny85-melody-and-LED (1).png" alt="circuit"><BR>
 Resistors = 220 ohm<BR>
 Loudspeaker = 8 ohm<BR>
 <BR>
