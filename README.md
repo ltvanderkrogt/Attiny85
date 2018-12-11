@@ -4,6 +4,6 @@ Resistors = 220 ohm<BR>
 Loudspeaker = 8 ohm<BR>
 <BR>
 <B>ATTINY85</B><bR>
-
+<img src="https://github.com/ltvanderkrogt/Attiny85/blob/master/ATTINY85%20USB.jpg" alt="1 euro"><BR>
 <B>Program ATTINY85</B><bR>
 <a href="https://digistump.com/wiki/digispark/tutorials/connecting">how to program your ATTINY85</a>
