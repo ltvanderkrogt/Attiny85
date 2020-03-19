@@ -8,5 +8,5 @@ Loudspeaker = 8 ohm<BR>
 <B>Program ATTINY85</B><bR>
 <a href="https://digistump.com/wiki/digispark/tutorials/connecting">how to program your ATTINY85</a>
   
-<B>Mac OS X Catalina: 64-bit Support for Arduino IDE</B><bR>
-  <a href="https://digistump.com/board/index.php/topic,3198.msg14487.html#msg14487"</a>
+<B>Mac OS X Catalina</B><bR>
+  <a href="https://digistump.com/board/index.php/topic,3198.msg14487.html#msg14487">64-bit Support for Arduino IDE</a>
